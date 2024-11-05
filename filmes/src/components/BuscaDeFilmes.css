@@ -1,0 +1,21 @@
+.filmesOrdenados {
+    display:flex;
+}
+.filmesOrdenados h3{
+    color: white;
+}
+.filmes {
+    margin: 1em;
+    min-width: 30%;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+
+input, button{
+    color: white;
+}
+input :placeholder-shown{
+    color: white;
+}
